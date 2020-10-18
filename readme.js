@@ -1,2 +1,1 @@
-window.addEventListener('load', fn, false )
-function fn(){ alert('test') }
+window.addEventListener('load', function(){ alert('test js'); }, false )
